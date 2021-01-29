@@ -1,0 +1,4 @@
+General guideline to follow
+1. Load dataset and do intial analysis. Check nulls, unique values for each column, etc.
+2. Select classification models. SVM, KNN, neural nets, random forest/decision trees, etc.
+3. Experiment with other methods such as cross validation, grid search, etc. What are some techniques used to increase accuracy?
